@@ -1,6 +1,3 @@
-# GraphFinal
-Final project for my Data Structures class for the Fall 2017
-
 This is an implementation of the Graph class in Java. It is able to preform Bread-First Traversal, Depth-First Traversal, and
 Dijkstra's Shortest Path algorithm. 
 
